@@ -273,9 +273,9 @@ return {
             c_ven_the_eye = {
                 name = 'The Eye',
                 text = {
-                    'Remove {C:attention}curses from {C:attention}all',
+                    'Removes {C:attention}Curses{} from {C:attention}all',
                     'cards in hand and',
-                    'create another {C:tarot}Tarot{} card'
+                    'creates another {C:tarot}Tarot{} card'
                 },
             },
         },
