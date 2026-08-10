@@ -8,6 +8,7 @@
 	"priority": 3000,
 	"badge_colour": "b1b8c4",
 	"version": "1.0.0",
+	"icon_path": "icon.png", 
 	"dependencies": [
         "Steamodded (>=1.)"
         ]
