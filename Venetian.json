@@ -1,0 +1,14 @@
+{
+	"id": "Venetian",
+	"name": "Venetian",
+	"author": ["AlexZGreat"],
+	"description": "Adds a lot of blinds.",
+	"prefix": "ven",
+	"main_file": "Main.lua",
+	"priority": 3000,
+	"badge_colour": "b1b8c4",
+	"version": "1.0.0",
+	"dependencies": [
+        "Steamodded (>=1.)"
+        ]
+}
