@@ -306,7 +306,7 @@ SMODS.Consumable{
                     play_sound('timpani')
                     local _card = create_card('Tarot', G.consumeables, nil, nil, nil, nil, nil, 'ven_eye')
                     _card:add_to_deck()
-                    G.consumeables:emplace(card)
+                    G.consumeables:emplace(_card)
                     card:juice_up(0.3, 0.5)
                 end
                 return true end }))
